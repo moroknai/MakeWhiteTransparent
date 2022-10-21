@@ -1,0 +1,11 @@
+C:\Users\Athletron\source\repos\MakeWhiteTransparent\MakeWhiteTransparent\bin\Debug\netcoreapp3.0\MakeWhiteTransparent.exe
+C:\Users\Athletron\source\repos\MakeWhiteTransparent\MakeWhiteTransparent\bin\Debug\netcoreapp3.0\MakeWhiteTransparent.deps.json
+C:\Users\Athletron\source\repos\MakeWhiteTransparent\MakeWhiteTransparent\bin\Debug\netcoreapp3.0\MakeWhiteTransparent.runtimeconfig.json
+C:\Users\Athletron\source\repos\MakeWhiteTransparent\MakeWhiteTransparent\bin\Debug\netcoreapp3.0\MakeWhiteTransparent.runtimeconfig.dev.json
+C:\Users\Athletron\source\repos\MakeWhiteTransparent\MakeWhiteTransparent\bin\Debug\netcoreapp3.0\MakeWhiteTransparent.dll
+C:\Users\Athletron\source\repos\MakeWhiteTransparent\MakeWhiteTransparent\bin\Debug\netcoreapp3.0\MakeWhiteTransparent.pdb
+C:\Users\Athletron\source\repos\MakeWhiteTransparent\MakeWhiteTransparent\obj\Debug\netcoreapp3.0\MakeWhiteTransparent.csprojAssemblyReference.cache
+C:\Users\Athletron\source\repos\MakeWhiteTransparent\MakeWhiteTransparent\obj\Debug\netcoreapp3.0\MakeWhiteTransparent.AssemblyInfoInputs.cache
+C:\Users\Athletron\source\repos\MakeWhiteTransparent\MakeWhiteTransparent\obj\Debug\netcoreapp3.0\MakeWhiteTransparent.AssemblyInfo.cs
+C:\Users\Athletron\source\repos\MakeWhiteTransparent\MakeWhiteTransparent\obj\Debug\netcoreapp3.0\MakeWhiteTransparent.dll
+C:\Users\Athletron\source\repos\MakeWhiteTransparent\MakeWhiteTransparent\obj\Debug\netcoreapp3.0\MakeWhiteTransparent.pdb
